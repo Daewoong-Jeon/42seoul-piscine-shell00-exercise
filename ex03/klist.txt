@@ -1,0 +1,5 @@
+Credentials cache: API:BED1FB8F-4DFC-409B-AB6F-D13638715D9A
+        Principal: djeon@42SEOUL.KR
+
+  Issued                Expires               Principal
+May 26 18:21:27 2020  May 27 04:21:27 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
